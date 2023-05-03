@@ -24,7 +24,7 @@ Mᴀᴅᴇ ᴡɪᴛʜ 🖤 ʙʏ : [ZADKIEL](tg://user?id={OWNER_ID}) !""",
                     InlineKeyboardButton(text="🙄 ɢᴇɴᴇʀᴀᴛᴇ sᴇssɪᴏɴ 🙄", callback_data="generate")
                 ],
                 [
-                    InlineKeyboardButton("❣️ sᴏᴜʀᴄᴇ ❣️", url="https://t.me/FRIENDS_ZONE3"),
+                    InlineKeyboardButton("❣️ sᴏᴜʀᴄᴇ ❣️", url="https://t.me/xd_area_51"),
                     InlineKeyboardButton("🥀 ᴅᴇᴠᴇʟᴏᴩᴇʀ 🥀", user_id=OWNER_ID)
                 ]
             ]
